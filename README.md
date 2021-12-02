@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I write code, do bloging, and make youtube videos.
+
+- [blog](https://nosarthur.github.io/)
+- [youtube channel](https://www.youtube.com/channel/UCEkwn6bsFS5p11KoBymEn-Q/featured)
+
+
 <!--
 **nosarthur/nosarthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
