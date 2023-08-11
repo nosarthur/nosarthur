@@ -6,8 +6,8 @@
 - hobbies
 ## [youtube channel](https://www.youtube.com/channel/UCEkwn6bsFS5p11KoBymEn-Q/featured)
 - productiviy hacks
-- coding
 - mechanical keyboards
+- coding
 - yoga
 
 
