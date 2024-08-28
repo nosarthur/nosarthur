@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-## [blog](https://nosarthur.github.io/)
+## [blog](https://physicsworks2.com/)
 - science and technology
 - coding
 - hobbies
-## [youtube channel](https://www.youtube.com/channel/UCEkwn6bsFS5p11KoBymEn-Q/featured)
+## [youtube channel](https://www.youtube.com/@mentalflow)
 - productiviy hacks
 - mechanical keyboards
 - coding
